@@ -297,11 +297,25 @@ border:0px;
     font-family: consolas;
     font-size:14px;
 }
+#tabelaGrafico
+{
+    border:0px solid;
+    text-align: center;
+    vertical-align: top;
+    font-family: consolas;
+    font-size:14px;
+}
 #tabelaInfo td
 {
     border-radius: 5px;
     background: #FFA54F;
 }
+#tabelaGrafico td
+{
+    border-radius: 5px;
+    background: #FFDEAD;
+}
+
 
 
 /* ---------------SLIDER--------------- */
