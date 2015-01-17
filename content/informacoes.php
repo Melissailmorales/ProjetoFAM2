@@ -67,6 +67,7 @@
     O gel está disponível nos Serviços de Assistência Especializada às DST/AIDS. É distribuído especialmente para travestis, gays, 
     homens que fazem sexo com homens, pessoas que exercem a prostituição, idosos e pessoas que vivem com HIV. </p>
 
+
     <h3>GRÁFICO DE RISCOS</h3>
     <table id='tabelaGrafico' border="1">
         <tr>
@@ -76,17 +77,17 @@
             <td><p align="justify">RISCOS DESCONHECIDOS</p></td>
         </tr>
         <tr>
-            <td><p align="justify">Fazendo sexo oral em um homem</p></td>
+            <td><p align="justify"><b>Fazendo sexo oral em um homem</b></p></td>
             <td>
-                <p align="justify">Gonorréia</p>
-                <p align="justify">Hepative A</p>
-                <p align="justify">Sífilis</p>
+                <p align="justify">- Gonorréia</p>
+                <p align="justify">- Hepative A</p>
+                <p align="justify">- Sífilis</p>
+            </td>  
+            <td>     
+                <p align="justify">- Hepatite B</p>
+                <p align="justify">- HIV</p>
             </td>
-            <td>
-                <p align="justify">Hepatite B</p>
-                <p align="justify">HIV</p>
-            </td>
-            <td><p align="justify">Hepatite C</p></td>
+            <td><p align="justify">- Hepatite C</p></td>
         </tr>
     </table>
 </div>
