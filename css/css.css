@@ -212,19 +212,14 @@ body
 #lateral
 {  	    
     float: left;
-    
+    font-family: consolas;
     width: 200px;
-	
-    
     min-width: 128px;
     background: #FFFFFF;  
-    
     margin-left: 24px;
-    
     box-shadow: 0px 0px 6px #fff; 
     -moz-box-shadow: 0px 0px 6px #fff; 
     -webkit-box-shadow: 0px 0px 6px #fff; 
-    
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;	
     -moz-border-radius-bottomright: 10px;
@@ -237,10 +232,22 @@ body
     display: table-cell;
 }
 
+#lateral a:link, a:visited, a:active 
+{
+    text-decoration: none;
+    color:#000;
+}
+#lateral a:hover 
+{
+    text-decoration: underline;  
+    color:#D2691E; 
+    font-size:100%; 
+}
+
+
 #foot  
 {  	
 	clear: both;
-    /*background: #696969;  */
 }  
 
 .rounded 
@@ -261,6 +268,18 @@ body
     max-width:175px;
     min-height:128px;
     max-height:128px;
+}
+#tabelaLateral
+{
+border:0px;
+}
+
+#tabelaLateral td
+{  
+    border:0px;
+    vertical-align: top;
+    font-family: consolas;
+    font-size:15px;
 }
 
 #tabelaCelulas

@@ -79,15 +79,17 @@
         <tr>
             <td><p align="justify"><b>Fazendo sexo oral em um homem</b></p></td>
             <td>
-                <p align="justify">- Gonorréia</p>
-                <p align="justify">- Hepative A</p>
-                <p align="justify">- Sífilis</p>
+                <li><p align="justify">Gonorréia</p></li>
+                <li><p align="justify">Hepative A</p></li>
+                <li><p align="justify">Sífilis</p></li>
             </td>  
             <td>     
-                <p align="justify">- Hepatite B</p>
-                <p align="justify">- HIV</p>
+                <li><p align="justify">Hepatite B</p></li>
+                <li><p align="justify">HIV</p></li>
             </td>
-            <td><p align="justify">- Hepatite C</p></td>
+            <td>
+                <li><p align="justify">Hepatite C</p></li>
+            </td>
         </tr>
     </table>
 </div>

@@ -15,9 +15,9 @@
 	<?php include 'content/menu.php'; ?>
 	
 	<div class="social_button">
-		<a href="index.php?pagina=teste1" class="button_click1"><img src="images/youtube.png" alt="Youtube"></a>
-		<a href="index.php?pagina=teste1" class="button_click1"><img src="images/twitter.png" alt="Twitter"></a>
-		<a href="index.php?pagina=teste1" class="button_click1"><img src="images/facebook.png" alt="Facebook"></a>
+		<a href="http://youtube.com" class="button_click1"><img src="images/youtube.png" alt="Youtube"></a>
+		<a href="http://twitter.com" class="button_click1"><img src="images/twitter.png" alt="Twitter"></a>
+		<a href="http://facebook.com" class="button_click1"><img src="images/facebook.png" alt="Facebook"></a>
 	</div>
 	
 	<div id="corpo">

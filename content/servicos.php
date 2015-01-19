@@ -22,6 +22,7 @@
                     <option value="pr">Itapetininga</option>
                     <option value="pr">Itararé</option>
                     <option value="pr">Itapeva</option>
+                    <option value="pr">Porto Feliz</option>
                     <option value="sp">São Paulo</option>
                     <option value="pr">Sorocaba</option>
                     <option value="pr">Tatuí</option>
