@@ -1,8 +1,8 @@
 <div id="foot">  		
-    <p>
-		Copyright © - Todos os direitos reservados - 2014 - Desenvolvido por: Crhistian Raphael & Melissa Il Morales  	
-	</p>
-	<p>
+    <p align="center">Prefeitura de Itapetininga
+    	<br>
+		Copyright © - Todos os direitos reservados - 2015 - Desenvolvido por: Crhistian Raphael & Melissa Il Morales  
+		<br>
 		Icon made by 
 		<a href="http://www.elegantthemes.com" title="Elegant Themes">
 			Elegant Themes

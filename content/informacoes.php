@@ -1,4 +1,5 @@
 <div id="texto">
+
     <h2>AIDS E JOVENS</h2>
     <p align="justify">No Estado de São Paulo, de 1980 até junho de 2013, mais de 200.000 pessoas tiveram AIDS. 
     Destas pessoas 24.000 tinham entre 13 e 24 anos, isto significa que mais ou menos 10% dos 

@@ -247,7 +247,14 @@ body
 
 #foot  
 {  	
-	clear: both;
+   position: fixed;
+   bottom: 0px;
+   background-color: #F4A460;
+   left: 0; 
+   width: 100%; 
+   height: 70px; 
+   padding-top: 10px; 
+   text-align: center;
 }  
 
 .rounded 

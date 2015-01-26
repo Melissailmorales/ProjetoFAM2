@@ -1,4 +1,5 @@
-<div id="lateral"> 		
+<div id="lateral"> 	
+
 	<table id='tabelaLateral' border="0">
 	<p align="justify">
 		<tr><td><a href="http://www.saude.sp.gov.br/centro-de-referencia-e-treinamento-dstaids-sp/">CRTD</a></td></tr>
@@ -7,9 +8,6 @@
 		<tr><td><a href="http://portal.itapetininga.sp.gov.br/servico/1231/pat-vagas-de-emprego">Vagas de empregos</a></td></tr> 			
 		<tr><td><a href="http://portal.itapetininga.sp.gov.br/por-voce/1746/retrospectiva-2014-">Retrospectiva 2014</a></td></tr>  						  			
 		<tr><td><a href="http://www.folhadeitapetininga.com.br/">Folha de Itapetininga</a></td></tr> 			
-		<tr><td><a href="#">blabla</a></td></tr> 			
-		<tr><td><a href="#">blabla</a></td></tr>			
-		<tr><td><a href="#">blabla</a></td></tr>
 	</p> 		
 	</table>
 
@@ -18,3 +16,5 @@
 	colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=343034515902526" scrolling="no" 
 	frameborder="0" style="border:none; overflow:hidden; width:200px; height:290px;" allowTransparency="true">
 	</iframe>
+
+

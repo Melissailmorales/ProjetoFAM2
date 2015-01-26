@@ -29,15 +29,19 @@
 				if ($pagina == "home")
 					include "content/home.php";
 				else if ($pagina == "cadastro")
-					include "content/cadastro.html";
+					include "content/cadastro.php";
 				else if ($pagina == "eventos")
 					include "content/eventos.php";
 				else if ($pagina == "informacoes")
 					include "content/informacoes.php";
+				else if ($pagina == "biblioteca")
+					include "content/biblioteca.php";
 				else if ($pagina == "quemsomos")
 					include "content/quemsomos.php";
 				else if ($pagina == "servicos")
 					include "content/servicos.php";
+				else if ($pagina == "contato")
+					include "content/contato.php";
 				else
 					include 'content/home.php';      
 			?>

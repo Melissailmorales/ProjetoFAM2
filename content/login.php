@@ -16,7 +16,7 @@
 				$html .= "</label>!";
 				$html .= "<a href='content/logoff.php' style='margin-left:32px;'>Logoff!</a>";
 			}else{
-				$html .= "<label style='color: #FFFFFF; font-size: 13px'>Você já é cadastrado? <a href='index.php?pag=cadastro'>Faça seu cadastro!</a></label>";
+				$html .= "<label style='color: #FFFFFF; font-size: 13px'>Você já é cadastrado? <a href='cadastro.php'>Faça seu cadastro!</a></label>";
 			}
 
 			echo $html;

@@ -7,10 +7,10 @@
         <div id="slider">
             <center>
                 <a href="#" class="trs">
-                    <img src="images/imgCapa.jpg" style="width:550px; height:280px;" alt="PROJETO FORMAÇÃO DE AGENTES MULTIPLICADORES"> 
+                    <img src="images/imgCapa.jpg" style="width:530px; height:250px;" alt="PROJETO FORMAÇÃO DE AGENTES MULTIPLICADORES"> 
                 </a>
                 <a href="#" class="trs">
-                    <img src="images/prefeitura.jpg" style="width:600px; height:300px;" alt="PREFEITURA DE ITAPETININGA">
+                    <img src="images/prefeitura.jpg" style="width:580px; height:250px;" alt="PREFEITURA DE ITAPETININGA">
                 </a>	
             </center>	
         </div>
